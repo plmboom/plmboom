@@ -6,10 +6,9 @@
 
 ### 👨‍💻 About me
 
-- 🎓 Learning Android development with Kotlin
-- 📱 Building my first mobile apps
+- 🎓 Android
+- 📱 Building mobile apps
 - 🌍 Based in Novosibirsk
-- 🚀 Applying for Yandex Summer School 2026
 
 ---
 
