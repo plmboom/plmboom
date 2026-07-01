@@ -3,7 +3,7 @@
   
 </div>
 
----
+<!--- -->
 ### My contacts
 
 <p align="left">
